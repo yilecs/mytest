@@ -1,1 +1,1 @@
-print("Hello, World")
+print('2025年 01月 06日 星期一 18:55:45 CST')
